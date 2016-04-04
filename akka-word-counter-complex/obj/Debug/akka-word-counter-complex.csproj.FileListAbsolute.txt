@@ -1,0 +1,10 @@
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\akka-word-counter-complex.exe.config
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\akka-word-counter-complex.exe
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\akka-word-counter-complex.pdb
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\Akka.dll
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\Newtonsoft.Json.dll
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\Akka.xml
+C:\projects\akka-word-counter\akka-word-counter-complex\bin\Debug\Newtonsoft.Json.xml
+C:\projects\akka-word-counter\akka-word-counter-complex\obj\Debug\akka-word-counter-complex.csprojResolveAssemblyReference.cache
+C:\projects\akka-word-counter\akka-word-counter-complex\obj\Debug\akka-word-counter-complex.exe
+C:\projects\akka-word-counter\akka-word-counter-complex\obj\Debug\akka-word-counter-complex.pdb

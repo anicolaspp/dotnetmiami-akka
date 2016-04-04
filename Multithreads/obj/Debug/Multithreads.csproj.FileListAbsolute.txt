@@ -1,0 +1,5 @@
+C:\projects\akka-word-counter\Multithreads\bin\Debug\Multithreads.exe.config
+C:\projects\akka-word-counter\Multithreads\bin\Debug\Multithreads.exe
+C:\projects\akka-word-counter\Multithreads\bin\Debug\Multithreads.pdb
+C:\projects\akka-word-counter\Multithreads\obj\Debug\Multithreads.exe
+C:\projects\akka-word-counter\Multithreads\obj\Debug\Multithreads.pdb
